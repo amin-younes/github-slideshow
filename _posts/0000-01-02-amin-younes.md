@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Learning is important.
+So it goes
 Use the left arrow to go back!
